@@ -1,0 +1,312 @@
+canonical_identifier: bkk:krp/KR3ed125/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed125/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 春腳集
+  identifiers:
+    krp: KR3ed125
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed125.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed125_000-jc.yaml, hash: 'sha256:43540492002aadcaad6a113e0cca644a2c0801c50e2533fd76c59537da77dda6'}
+  - {seq: 1, filename: KR3ed125_001-jc.yaml, hash: 'sha256:81ed8711aeea0bf94ae49c8ae99786da6a3ca43f700510befed4f3b62289287f'}
+  - {seq: 2, filename: KR3ed125_002-jc.yaml, hash: 'sha256:39a8119a519ec44da6cf57bb6ec697c4cdb6a348991bb41b70eff13ffdc1ab6d'}
+  - {seq: 3, filename: KR3ed125_003-jc.yaml, hash: 'sha256:be598b80391d9519ffc63cf9244be29e8f88490049377b0b15e4b5e799bf63ff'}
+  - {seq: 4, filename: KR3ed125_004-jc.yaml, hash: 'sha256:622987e2d38b0a5457f92f9594049ba118f427ea569733fd5663045158a08263'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed125_000-jc.markers.yaml, hash: 'sha256:ddb6e2bed454a742980ca99d6b145a3905f42ffed2a7e895d60eb102b432f89f'}
+  - {seq: 1, role: markers, filename: assets/KR3ed125_001-jc.markers.yaml, hash: 'sha256:30016bef02246438f2168583e1393817b701a1158bad8127a8778008c6d08b58'}
+  - {seq: 2, role: markers, filename: assets/KR3ed125_002-jc.markers.yaml, hash: 'sha256:38256dc27b907cae172b1af55d471569c0feff87c286cfb73084504c7690ab05'}
+  - {seq: 3, role: markers, filename: assets/KR3ed125_003-jc.markers.yaml, hash: 'sha256:ffe7ea5145f1d4851141fe82abeff471274bf7320efe6a98f12091c68593f580'}
+  - {seq: 4, role: markers, filename: assets/KR3ed125_004-jc.markers.yaml, hash: 'sha256:68e913f6cc2e5b0ce96453766482bd7f73ab30dd24ff888c6258f1dfdcd5892e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed125_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 418
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed125_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 384
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 8230
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d2
+    span:
+    - body
+    - 3
+    - 742
+  label: 頭部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d3
+    span:
+    - body
+    - 742
+    - 2639
+  label: 目部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d4
+    span:
+    - body
+    - 2639
+    - 5007
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d5
+    span:
+    - body
+    - 5007
+    - 6374
+  label: 舌部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d6
+    span:
+    - body
+    - 6374
+    - 7551
+  label: 牙齒部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d7
+    span:
+    - body
+    - 7551
+    - 8230
+  label: 口部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8900
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d2
+    span:
+    - body
+    - 3
+    - 1129
+  label: 耳部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d3
+    span:
+    - body
+    - 1129
+    - 2250
+  label: 鼻部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d4
+    span:
+    - body
+    - 2250
+    - 3440
+  label: 頸項部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d5
+    span:
+    - body
+    - 3440
+    - 4537
+  label: 肩手部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d6
+    span:
+    - body
+    - 4537
+    - 5026
+  label: 脊背部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d7
+    span:
+    - body
+    - 5026
+    - 6047
+  label: 胸肋部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d8
+    span:
+    - body
+    - 6047
+    - 7639
+  label: 臍腹部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d9
+    span:
+    - body
+    - 7639
+    - 8900
+  label: 腰胯臀股部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 9330
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6d2
+    span:
+    - body
+    - 3
+    - 3669
+  label: 前後二陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6d3
+    span:
+    - body
+    - 3669
+    - 5093
+  label: 腿膝足腳部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6d4
+    span:
+    - body
+    - 5093
+    - 6701
+  label: 皮膚部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6d5
+    span:
+    - body
+    - 6701
+    - 9330
+  label: 內科隨錄
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 13040
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7d2
+    span:
+    - body
+    - 3
+    - 5560
+  label: 內科
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7d3
+    span:
+    - body
+    - 5560
+    - 7987
+  label: 婦科隨錄
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7d4
+    span:
+    - body
+    - 7987
+    - 10120
+  label: 幼科選方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7d5
+    span:
+    - body
+    - 10120
+    - 13040
+  label: 外科隨錄
+  type: section
+  level: 2
+hash: sha256:5fdf46aa9380b293fa568e4beaacfc5c23a9083da7f561b77926537ede3971a6

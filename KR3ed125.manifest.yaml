@@ -1,0 +1,315 @@
+canonical_identifier: bkk:krp/KR3ed125/v1
+canonical_location: https://kanripo.org/bkk/KR3ed125/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 春腳集
+  identifiers:
+    krp: KR3ed125
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed125.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed125_000.yaml, hash: 'sha256:72c485575318e99fc0891286aff9851fdfbf0577390c3eab1d6474819275b452'}
+  - {seq: 1, filename: KR3ed125_001.yaml, hash: 'sha256:2f44dd3e82057e3ceda8571a77d70d946d81fb694746d29a9905868208118c4d'}
+  - {seq: 2, filename: KR3ed125_002.yaml, hash: 'sha256:5fb5e5005b3a627ba8201258b9b997e4d17d002c374db0e290e1f38630173d1a'}
+  - {seq: 3, filename: KR3ed125_003.yaml, hash: 'sha256:bb1b314374a993913fea06e621c2a834814fecfdd7452d2c31117ca008e8a8e4'}
+  - {seq: 4, filename: KR3ed125_004.yaml, hash: 'sha256:24f2b61ea844a1735b9dcb0e3898dba23bb512c3a7277d36ab91d316555b3193'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed125_000.markers.yaml, hash: 'sha256:b1a0d3e502645723324170a51baac219b6e318ae106729f151fc6c06ab4a42e9'}
+  - {seq: 1, role: markers, filename: assets/KR3ed125_001.markers.yaml, hash: 'sha256:842144dc3843f88aef3184dc2c1269c7718a52bfc88f0f697a08298876c330b4'}
+  - {seq: 2, role: markers, filename: assets/KR3ed125_002.markers.yaml, hash: 'sha256:9c1d75006b2f79597a24f02c4549ea8f127ae982e80ad7e096ba1f192a3f83f8'}
+  - {seq: 3, role: markers, filename: assets/KR3ed125_003.markers.yaml, hash: 'sha256:1e1af37421541a498a20ef75a22948c84503370b12513129be30f71ba57196f7'}
+  - {seq: 4, role: markers, filename: assets/KR3ed125_004.markers.yaml, hash: 'sha256:39ef2f3e3ba3c7426093afada9144824bc3d4a8036a10c398cd66f3313e4274d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed125_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 418
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed125_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 384
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 8230
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d2
+    span:
+    - body
+    - 3
+    - 742
+  label: 頭部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d3
+    span:
+    - body
+    - 742
+    - 2639
+  label: 目部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d4
+    span:
+    - body
+    - 2639
+    - 5007
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d5
+    span:
+    - body
+    - 5007
+    - 6374
+  label: 舌部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d6
+    span:
+    - body
+    - 6374
+    - 7551
+  label: 牙齒部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed125_jc_001-d4d7
+    span:
+    - body
+    - 7551
+    - 8230
+  label: 口部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8900
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d2
+    span:
+    - body
+    - 3
+    - 1129
+  label: 耳部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d3
+    span:
+    - body
+    - 1129
+    - 2250
+  label: 鼻部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d4
+    span:
+    - body
+    - 2250
+    - 3440
+  label: 頸項部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d5
+    span:
+    - body
+    - 3440
+    - 4537
+  label: 肩手部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d6
+    span:
+    - body
+    - 4537
+    - 5026
+  label: 脊背部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d7
+    span:
+    - body
+    - 5026
+    - 6047
+  label: 胸肋部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d8
+    span:
+    - body
+    - 6047
+    - 7639
+  label: 臍腹部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed125_jc_002-d5d9
+    span:
+    - body
+    - 7639
+    - 8900
+  label: 腰胯臀股部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 9330
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6d2
+    span:
+    - body
+    - 3
+    - 3669
+  label: 前後二陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6d3
+    span:
+    - body
+    - 3669
+    - 5093
+  label: 腿膝足腳部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6d4
+    span:
+    - body
+    - 5093
+    - 6701
+  label: 皮膚部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed125_jc_003-d6d5
+    span:
+    - body
+    - 6701
+    - 9330
+  label: 內科隨錄
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 13040
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7d2
+    span:
+    - body
+    - 3
+    - 5560
+  label: 內科
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7d3
+    span:
+    - body
+    - 5560
+    - 7987
+  label: 婦科隨錄
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7d4
+    span:
+    - body
+    - 7987
+    - 10120
+  label: 幼科選方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed125_jc_004-d7d5
+    span:
+    - body
+    - 10120
+    - 13040
+  label: 外科隨錄
+  type: section
+  level: 2
+hash: sha256:a2d58683e38ba9f35c371a73c9342adc00d64c52949806cde8e5ad83ef45f72c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
