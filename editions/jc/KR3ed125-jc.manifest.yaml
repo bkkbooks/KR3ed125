@@ -24,10 +24,10 @@ assets:
   - {seq: 4, filename: KR3ed125_004-jc.yaml, hash: 'sha256:622987e2d38b0a5457f92f9594049ba118f427ea569733fd5663045158a08263'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed125_000-jc.markers.yaml, hash: 'sha256:ddb6e2bed454a742980ca99d6b145a3905f42ffed2a7e895d60eb102b432f89f'}
-  - {seq: 1, role: markers, filename: assets/KR3ed125_001-jc.markers.yaml, hash: 'sha256:30016bef02246438f2168583e1393817b701a1158bad8127a8778008c6d08b58'}
-  - {seq: 2, role: markers, filename: assets/KR3ed125_002-jc.markers.yaml, hash: 'sha256:38256dc27b907cae172b1af55d471569c0feff87c286cfb73084504c7690ab05'}
-  - {seq: 3, role: markers, filename: assets/KR3ed125_003-jc.markers.yaml, hash: 'sha256:ffe7ea5145f1d4851141fe82abeff471274bf7320efe6a98f12091c68593f580'}
-  - {seq: 4, role: markers, filename: assets/KR3ed125_004-jc.markers.yaml, hash: 'sha256:68e913f6cc2e5b0ce96453766482bd7f73ab30dd24ff888c6258f1dfdcd5892e'}
+  - {seq: 1, role: markers, filename: assets/KR3ed125_001-jc.markers.yaml, hash: 'sha256:1f224b0ec6e73ee9ca298a64d2b8bfee20b14ecfe5fd017eda010c75aed73aa4'}
+  - {seq: 2, role: markers, filename: assets/KR3ed125_002-jc.markers.yaml, hash: 'sha256:3952e16d2b2814f7605bbae37de91bfd1c1d99344d76d5fa89a62f8e5b7ed372'}
+  - {seq: 3, role: markers, filename: assets/KR3ed125_003-jc.markers.yaml, hash: 'sha256:36985400b2e5c86397c67c7f93bc79446ae7411a6fe8fc8431a1bcf5f9db7974'}
+  - {seq: 4, role: markers, filename: assets/KR3ed125_004-jc.markers.yaml, hash: 'sha256:98b9f098ff4090130ea122def79987768cc65f88576c17cec9c0912f5a555d19'}
 table_of_contents:
 - ref:
     seq: 0
@@ -309,4 +309,4 @@ table_of_contents:
   label: 外科隨錄
   type: section
   level: 2
-hash: sha256:5fdf46aa9380b293fa568e4beaacfc5c23a9083da7f561b77926537ede3971a6
+hash: sha256:f8ea3005150f196ef129373997b037bf345b0576d305e294aa5ba32d640b3648
